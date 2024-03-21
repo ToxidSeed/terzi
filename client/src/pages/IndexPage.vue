@@ -3,7 +3,7 @@
     <img
       alt="Quasar logo"
       src="~assets/bcp-logo.png"
-      
+      width="500" height="150"
     >
   </q-page>
 </template>
